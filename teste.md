@@ -1,2 +1,5 @@
 TESTANDO a visualização de COMMIT 
 - TESTER X
+
+
+FIZ O MERGE ANONIMO: :-> TESTER X
